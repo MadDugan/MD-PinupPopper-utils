@@ -2,11 +2,11 @@
 Various Utilities for PinUp Popper
 
 
-FindMissingBG.bat
+##FindMissingBG.bat
 
 ** scans a tables directory and logs tables without matching backglass file
 
-POPGAME_SetTag-BROKEN.bat
+##POPGAME_SetTag-BROKEN.bat
 
 ** Adds tag to database based on file name. Replace text after dash with prefered tag
 
