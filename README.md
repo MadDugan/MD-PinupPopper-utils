@@ -11,7 +11,7 @@ Various Utilities for [PinUp Popper](https://www.nailbuster.com/wikipinup/doku.p
 
 ** Adds tag to database based on file name. Replace text after dash with prefered tag
 
-** Place file in PinUpSystem/Launch directory
+** Place file in PinUpSystem/Launch directory. Access via operator menu.
 
 ** requires https://www.sqlite.org/2024/sqlite-tools-win-x64-3460000.zip
 
